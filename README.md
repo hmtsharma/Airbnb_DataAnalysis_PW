@@ -13,10 +13,10 @@ The objective of the project is to perform data visualization techniques to unde
 ## Jupyter Notebook of Exploratery Data Analysis(EDA) on Airbnb Data
 • Download the python file manually : Airbnb Project EDA.jpynb file from following Link
 • https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/tree/main/Code
-## Power Bi Desktop Repoet FILe
+## Power BI Desktop Report File
 • Download the pbix file manually : Airbnb Dashboard.pbix file from following Link
 • https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/tree/main/Power%20BI
-## setup & Requirments
+## Setup & Requirments
 ```bash
 Pip install Pandas
 import pandas as pd 
@@ -37,7 +37,7 @@ import seaborb as sns
 pip install plotly
 import plotly.express as px
 ```
-### Please Go through Airbnb HLD.pdf and Airbnb LLD.pdf for more Details.
+### Go through Airbnb HLD.pdf and Airbnb LLD.pdf for more Details.
 
 ![01](https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/assets/86962269/5637c6c1-4698-4880-acb9-0f2b48357ef2)
 
