@@ -1,46 +1,36 @@
-# Airbnb_DataAnalysis
-#### I Created this Internship Data Analysis Project Using "Python" to perform Data Cleansing, Understand Dataset, "Exploratery Data anslysis (EDA)" and Creating "Dashboard report" Using "Power BI".
+# AirBnB Data Analysis Project
 
-Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in Amsterdam, Netherland for 2019.
 
-The objective of the project is to perform data visualization techniques to understand the insight of the data. This project aims to apply Exploratory Data Analysis (EDA) and Business Intelligence tools such as Power BI to get a visual understanding of the data.
+<p align="center">
+  <img src="https://pluspng.com/img-png/airbnb-logo-png-airbnb-logo-1600.png" width= "320" height="240">
+</p>
 
-## Dataset
-• Download the dataset for pratice and training.
 
-• https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/tree/main/Dataset
+# 📝Problem Statement
 
-## Jupyter Notebook of Exploratery Data Analysis(EDA) on Airbnb Data
-• Download the python file manually : Airbnb Project EDA.jpynb file from following Link
-• https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/tree/main/Code
-## Power BI Desktop Report File
-• Download the pbix file manually : Airbnb Dashboard.pbix file from following Link
-• https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/tree/main/Power%20BI
-## Setup & Requirments
-```bash
-Pip install Pandas
-import pandas as pd 
-```
-```bash
-pip install numpy
-import numpy as np
-```
-```bash
-pip install matplotlib
-import matplotlib.pyplot as plt
-```
-```bash
-pip install seaborb
-import seaborb as sns
-```
-```bash
-pip install plotly
-import plotly.express as px
-```
-### Go through Airbnb HLD.pdf and Airbnb LLD.pdf for more Details.
+Travel industries are having important reflection of the economy from past few decades, and Airbnb housing price ranges are of great interest for both Hosts and Traveler. In this project, we are analyzing the Airbnb dataset to uncover various aspects. It helps in not only understanding the meaningful relationships between attributes but it also allows us to do our own research and come-up with our findings.<br>
 
-![01](https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/assets/86962269/5637c6c1-4698-4880-acb9-0f2b48357ef2)
+Since 2008, guests and hosts have used AirBNB to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in San Diego, California for 2019.
+This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
-![02](https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/assets/86962269/3c5e763a-9384-4bc2-8295-b568b6c57186)
+# Objectives: 
+The objective of this project is 
+1. Initial Data Exploration.
+2. Data cleaning & Feature Engineering.
+3. Data Visualization & Exploratory Data Analysis<br>
+At the end we aim to genrate various meaningfull insights and conclusions from the data to uncover hidden aspects
+
+
+# 🎉 Approach (Architecture):
+![137479294-ccfa21f9-81e1-4de8-8f96-15ddefdec06e](https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/assets/86962269/f0d9fb03-d93f-4b0a-8ebc-aeccb064d6e9)
+
+
+
+# 💡 Conclusions
+In this analysis project, about 16 different use cases were analyzed on the given dataset to make better business decisions and help analyze customer trends and satisfaction, which can lead to new and better products and services. we find-out the Top Earners (Host), 
+relationship between Monthly Earning and Prices, Price comparison in terms of Property Type, and 
+Room Type, Preference of Guests w.r.t. Property Type & Room Type. Furthermore, we have also 
+been analyzed Maximum Number of Bookings, Customer Reviews/Comments, Amenities provided 
+by the Airbnb’s and many more.
 
 
